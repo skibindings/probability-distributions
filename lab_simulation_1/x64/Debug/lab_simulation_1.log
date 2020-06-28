@@ -1,0 +1,48 @@
+﻿  bernoulli_distribution.cpp
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\bernoulli_distribution.cpp(28): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\bernoulli_distribution.cpp(47): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  binomial_distribution.cpp
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\binomial_distribution.cpp(70): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\binomial_distribution.cpp(74): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\binomial_distribution.cpp(89): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  exponential_distribution.cpp
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\exponential_distribution.cpp(27): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\exponential_distribution.cpp(31): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\exponential_distribution.cpp(46): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  fishman_lcg.cpp
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\fishman_lcg.cpp(12): warning C4244: return: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\fishman_lcg.cpp(17): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\fishman_lcg.cpp(20): warning C4244: return: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\fishman_lcg.cpp(25): warning C4244: return: преобразование "long double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\fishman_lcg.cpp(38): warning C4244: return: преобразование "const unsigned __int64" в "unsigned long", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\fishman_lcg.cpp(42): warning C4244: return: преобразование "const unsigned __int64" в "unsigned int", возможна потеря данных
+  geometric_distribution.cpp
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\geometric_distribution.cpp(26): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\geometric_distribution.cpp(61): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\geometric_distribution.cpp(65): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\geometric_distribution.cpp(80): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  hypergeometric_distribution.cpp
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\hypergeometric_distribution.cpp(68): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\hypergeometric_distribution.cpp(72): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\hypergeometric_distribution.cpp(87): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  lab_simulation_2.cpp
+  lcg_tester.cpp
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\lcg_tester.cpp(68): warning C4244: аргумент: преобразование "long double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\lcg_tester.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+  normal_distribution.cpp
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\normal_distribution.cpp(32): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\normal_distribution.cpp(36): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\normal_distribution.cpp(51): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  poisson_distribution.cpp
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\poisson_distribution.cpp(27): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\poisson_distribution.cpp(75): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\poisson_distribution.cpp(79): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\poisson_distribution.cpp(94): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  probability_distribution.cpp
+  uniform_distribution.cpp
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\uniform_distribution.cpp(18): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\uniform_distribution.cpp(26): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\uniform_distribution.cpp(30): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_simulation_2\lab_simulation_1\uniform_distribution.cpp(45): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  Создание кода...
+  lab_simulation_1.vcxproj -> C:\Users\minea\source\repos\lab_simulation_2\x64\Debug\lab_simulation_2.exe
